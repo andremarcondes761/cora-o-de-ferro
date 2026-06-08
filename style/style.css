@@ -1,7 +1,7 @@
 @import url("style/header.css");
 :root{
  --laranja-claro: #2610f1;
-    --preto: #000000;
+    --preto: #00f2ff;
     --branco: #FFFFFF; 
 }
 
@@ -11,7 +11,7 @@
 }
 
 .cabecalho {
-    background-color: #67bdf7;
+    background-color: #0044ff;
     color:var(--branco);
     display: flex;
     justify-content: space-around;
